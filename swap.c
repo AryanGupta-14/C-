@@ -10,5 +10,5 @@ int main()
     a=a-b;
     printf("\nAfter swapping a=%d b=%d" ,a,b);
     return 0;
-}.          
+}    
 
